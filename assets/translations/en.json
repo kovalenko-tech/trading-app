@@ -1,0 +1,20 @@
+{
+    "dashboard_count": "{count}/{total}",
+    "dashboard_join_button": "Join Metaview Discord",
+    "dashboard_join_subtitle": "In the meantime join our discord.",
+    "dashboard_join_title": "Check back soon for new clips and creator content.",
+    "dashboard_new_videos": {
+        "few": "+{} New Videos",
+        "many": "+{} New Videos",
+        "one": "+{} New Video",
+        "other": "+{} New Videos",
+        "two": "+{} New Videos",
+        "zero": "No New Videos"
+    },
+    "dashboard_title": "Trending Today 🔥",
+    "home_tabs_dashboard": "Hot",
+    "home_tabs_watch": "Watch",
+    "home_tabs_inbox": "Inbox",
+    "home_tabs_discover": "Discover",
+    "home_tabs_profile": "Profile"
+}
